@@ -13,6 +13,8 @@ Tutoriel : https://university.webflow.com/lesson/clone-a-project-in-webflow
 - Créez votre propre projet Webflow à partir de ce modèle.
 - Publiez votre projet sur Webflow.io.
 
+Mise à jour : certaines fonctionnalités avancées de Webflow nécessitant un compte payant, nous vons recommandons de faire une demande de compte étudiant pour y accéder gratuitement. https://webflow.com/for/classroom
+
 ## Mode développeur
 
 - Récupérez le code source en téléchargant le Zip ou en clonant le code source.
